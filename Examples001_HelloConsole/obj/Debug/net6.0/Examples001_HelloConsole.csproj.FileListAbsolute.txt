@@ -1,0 +1,15 @@
+/Users/main/Desktop/Разработчик/C#/Examples/Examples001_HelloConsole/bin/Debug/net6.0/Examples001_HelloConsole
+/Users/main/Desktop/Разработчик/C#/Examples/Examples001_HelloConsole/bin/Debug/net6.0/Examples001_HelloConsole.deps.json
+/Users/main/Desktop/Разработчик/C#/Examples/Examples001_HelloConsole/bin/Debug/net6.0/Examples001_HelloConsole.runtimeconfig.json
+/Users/main/Desktop/Разработчик/C#/Examples/Examples001_HelloConsole/bin/Debug/net6.0/Examples001_HelloConsole.dll
+/Users/main/Desktop/Разработчик/C#/Examples/Examples001_HelloConsole/bin/Debug/net6.0/ref/Examples001_HelloConsole.dll
+/Users/main/Desktop/Разработчик/C#/Examples/Examples001_HelloConsole/bin/Debug/net6.0/Examples001_HelloConsole.pdb
+/Users/main/Desktop/Разработчик/C#/Examples/Examples001_HelloConsole/obj/Debug/net6.0/Examples001_HelloConsole.csproj.AssemblyReference.cache
+/Users/main/Desktop/Разработчик/C#/Examples/Examples001_HelloConsole/obj/Debug/net6.0/Examples001_HelloConsole.GeneratedMSBuildEditorConfig.editorconfig
+/Users/main/Desktop/Разработчик/C#/Examples/Examples001_HelloConsole/obj/Debug/net6.0/Examples001_HelloConsole.AssemblyInfoInputs.cache
+/Users/main/Desktop/Разработчик/C#/Examples/Examples001_HelloConsole/obj/Debug/net6.0/Examples001_HelloConsole.AssemblyInfo.cs
+/Users/main/Desktop/Разработчик/C#/Examples/Examples001_HelloConsole/obj/Debug/net6.0/Examples001_HelloConsole.csproj.CoreCompileInputs.cache
+/Users/main/Desktop/Разработчик/C#/Examples/Examples001_HelloConsole/obj/Debug/net6.0/Examples001_HelloConsole.dll
+/Users/main/Desktop/Разработчик/C#/Examples/Examples001_HelloConsole/obj/Debug/net6.0/ref/Examples001_HelloConsole.dll
+/Users/main/Desktop/Разработчик/C#/Examples/Examples001_HelloConsole/obj/Debug/net6.0/Examples001_HelloConsole.pdb
+/Users/main/Desktop/Разработчик/C#/Examples/Examples001_HelloConsole/obj/Debug/net6.0/Examples001_HelloConsole.genruntimeconfig.cache
