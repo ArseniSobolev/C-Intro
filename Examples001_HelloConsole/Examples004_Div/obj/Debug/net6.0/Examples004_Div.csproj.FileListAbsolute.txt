@@ -1,0 +1,15 @@
+/Users/main/Desktop/Разработчик/C#/Examples/Examples001_HelloConsole/Examples004_Div/bin/Debug/net6.0/Examples004_Div
+/Users/main/Desktop/Разработчик/C#/Examples/Examples001_HelloConsole/Examples004_Div/bin/Debug/net6.0/Examples004_Div.deps.json
+/Users/main/Desktop/Разработчик/C#/Examples/Examples001_HelloConsole/Examples004_Div/bin/Debug/net6.0/Examples004_Div.runtimeconfig.json
+/Users/main/Desktop/Разработчик/C#/Examples/Examples001_HelloConsole/Examples004_Div/bin/Debug/net6.0/Examples004_Div.dll
+/Users/main/Desktop/Разработчик/C#/Examples/Examples001_HelloConsole/Examples004_Div/bin/Debug/net6.0/ref/Examples004_Div.dll
+/Users/main/Desktop/Разработчик/C#/Examples/Examples001_HelloConsole/Examples004_Div/bin/Debug/net6.0/Examples004_Div.pdb
+/Users/main/Desktop/Разработчик/C#/Examples/Examples001_HelloConsole/Examples004_Div/obj/Debug/net6.0/Examples004_Div.csproj.AssemblyReference.cache
+/Users/main/Desktop/Разработчик/C#/Examples/Examples001_HelloConsole/Examples004_Div/obj/Debug/net6.0/Examples004_Div.GeneratedMSBuildEditorConfig.editorconfig
+/Users/main/Desktop/Разработчик/C#/Examples/Examples001_HelloConsole/Examples004_Div/obj/Debug/net6.0/Examples004_Div.AssemblyInfoInputs.cache
+/Users/main/Desktop/Разработчик/C#/Examples/Examples001_HelloConsole/Examples004_Div/obj/Debug/net6.0/Examples004_Div.AssemblyInfo.cs
+/Users/main/Desktop/Разработчик/C#/Examples/Examples001_HelloConsole/Examples004_Div/obj/Debug/net6.0/Examples004_Div.csproj.CoreCompileInputs.cache
+/Users/main/Desktop/Разработчик/C#/Examples/Examples001_HelloConsole/Examples004_Div/obj/Debug/net6.0/Examples004_Div.dll
+/Users/main/Desktop/Разработчик/C#/Examples/Examples001_HelloConsole/Examples004_Div/obj/Debug/net6.0/ref/Examples004_Div.dll
+/Users/main/Desktop/Разработчик/C#/Examples/Examples001_HelloConsole/Examples004_Div/obj/Debug/net6.0/Examples004_Div.pdb
+/Users/main/Desktop/Разработчик/C#/Examples/Examples001_HelloConsole/Examples004_Div/obj/Debug/net6.0/Examples004_Div.genruntimeconfig.cache
